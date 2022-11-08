@@ -1,0 +1,9 @@
+.email-form, .password-form, .url-form{
+    width: 85%;
+    height: 3pc;
+    border-radius: 8px;
+    border-color: rgb(77, 151, 241);
+    }
+    #msg{
+        color: rgb(10, 9, 9);
+    }
