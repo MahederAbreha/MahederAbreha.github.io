@@ -1,5 +1,6 @@
 body{
     background-color:cadetblue;
+    margin: 0;
 }
 html{
     padding: 20px;
@@ -15,4 +16,14 @@ ul{
 }
 div{
     border-radius: 30%;
+}
+img{
+    margin: 50px;
+}
+header{
+    background-color: bisque;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
 }

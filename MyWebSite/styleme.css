@@ -20,3 +20,9 @@ body{
 img{
     display: inline;
 }
+.bluebox{
+    background: blue;
+    height: 500px;
+    width:500px;
+    float:left;
+}
